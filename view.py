@@ -62,8 +62,6 @@ def ver_Receitas():
   
    return lista_itens  
     
-print(ver_Receitas())
-
 
 #Ver Receitas
 def ver_Gastos():
@@ -78,5 +76,4 @@ def ver_Gastos():
   
    return lista_itens  
     
-print(ver_Gastos())
 #-------------------------------------------------------------------------------
